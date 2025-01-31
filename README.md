@@ -78,5 +78,6 @@ This analysis provides a comprehensive understanding of the company's hiring pro
 ## Resources
 
 - **Project Dashboard:** [Tableau Public Link](https://public.tableau.com/app/profile/darshana.b8538/viz/HiringProcessAnalytics_17383579109830/HiringProcessAnalytics)
-- **Cleaned Dataset:**[RawData](https://github.com/darshanabk/HiringProcessAnalytics/blob/main/DataCleaningAndAnalysis/Cleaned%20Dataset.xlsx)
+- **Raw Dataset:** [RawDataset](https://github.com/darshanabk/HiringProcessAnalytics/blob/main/RawData/Raw%20Dataset%20-%20HPA.xlsx)
+- **Cleaned Dataset:**[CleanedDataset](https://github.com/darshanabk/HiringProcessAnalytics/blob/main/DataCleaningAndAnalysis/Cleaned%20Dataset.xlsx)
 - **Excel Workbook:** [ExcelAnalysis](https://github.com/darshanabk/HiringProcessAnalytics/blob/main/DataCleaningAndAnalysis/Raw%20Data%20-%20Data%20Cleaning%20and%20Excel%20Analysis%20HPA.xlsx)
