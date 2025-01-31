@@ -1,5 +1,5 @@
-# Hiring Process Analytics
-[Live DashBoard ](https://public.tableau.com/app/profile/darshana.b8538/viz/HiringProcessAnalytics_17383579109830/HiringProcessAnalytics)  
+# Hiring Process Analytics | [View Live DashBoard ](https://public.tableau.com/app/profile/darshana.b8538/viz/HiringProcessAnalytics_17383579109830/HiringProcessAnalytics)  
+
 ## Project Overview
 
 This project focuses on analyzing the hiring process to gain insights into the company's hiring trends, salary distribution, and employee composition by gender, department, and position. The analysis involved data cleaning, handling missing values, addressing outliers, and visualizing key metrics using **Microsoft Excel and Tableau**.
