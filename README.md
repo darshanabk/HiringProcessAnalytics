@@ -1,6 +1,6 @@
 
 # Hiring Process Analytics | [View Live DashBoard ](https://public.tableau.com/app/profile/darshana.b8538/viz/HiringProcessAnalytics_17383579109830/HiringProcessAnalytics)  
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/darshanabk/HiringProcessAnalytics/blob/main/Recruitment.jpg)
 
 ## Project Overview
 
